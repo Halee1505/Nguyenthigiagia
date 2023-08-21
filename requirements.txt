@@ -2,8 +2,6 @@
 # YOLOv5 requirements
 # Usage: pip install -r requirements.txt
 
-libgl1-mesa-glx
-libglib2.0-0
 keras==2.9.0
 numpy==1.23.1
 opencv-python-headless
