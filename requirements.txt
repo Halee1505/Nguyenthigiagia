@@ -2,16 +2,13 @@
 # YOLOv5 requirements
 # Usage: pip install -r requirements.txt
 
-
-streamlit_webrtc 
-webrtc_streamer
 libgl1-mesa-glx
 libglib2.0-0
 keras==2.9.0
 numpy==1.23.1
-opencv-python-headless==4.6.0.66
+opencv-python-headless
 Pillow==9.2.0
-streamlit==1.11.1
+streamlit
 tensorflow==2.9.1
 streamlit_webrtc==0.20.0
 gitpython>=3.1.30
