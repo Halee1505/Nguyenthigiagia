@@ -7,6 +7,7 @@ import numpy as np
 import streamlit as st
 from PIL import Image
 from pathlib import Path
+from streamlit_webrtc import webrtc_streamer
 
 
 @st.cache()
